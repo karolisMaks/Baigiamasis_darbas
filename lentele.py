@@ -20,6 +20,4 @@ class Lentele(Base):
 
     def __repr__(self):
         return f'{self.id} {self.tipas} {self.paskirtis} {self.suma} {self.iraso_data}'
-    # def __str__(self):
-    #     return [self.id,self.tipas,self.paskirtis,self.suma,self.iraso_data]
 Base.metadata.create_all(engine)
