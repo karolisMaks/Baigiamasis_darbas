@@ -2,8 +2,8 @@
 
 ### Veikimo principas:
 
-- Paleidus main.py programą, automatiškai susikuria duomenų bazė, loginimo file'as ir
-įsijungia su tkinter padaryta grafinė sąsaja.
+- Pirmą kartą paleidus main.py programą, automatiškai susikuria duomenų bazė, loginimo file'as ir
+įsijungia su tkinter moduliu padaryta grafinė sąsaja.
 
 - Programa visus įrašus ir jų pakitimus saugo duomenu bazės fail'e - biudzeto_duomenu_baze.db
 Taip pat visi įrašai ir jų pakitimai yra logginami į - biudzetas_logeris.log fail'ą
@@ -20,4 +20,3 @@ gyvu laiku įvedus naują įrašą, ištrynus įrašą arba pakeitus esamo įra�
 
 ### Pastabos:
 - Įvedant naują įrašą arba keičiant esamą, data privaloma vesti XXXX-XX-XX formatu
-
