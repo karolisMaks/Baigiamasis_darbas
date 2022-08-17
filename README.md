@@ -2,4 +2,4 @@
 
 ### daro kazka
 
-paprastas tekstas "main.py"
+paprastas tekstas 'main.py'
