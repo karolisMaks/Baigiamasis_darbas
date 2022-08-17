@@ -1,5 +1,4 @@
-import datetime
-from sqlalchemy import Column, Integer, String, Float, DateTime, create_engine,Date
+from sqlalchemy import Column, Integer, String, Float, create_engine,Date
 from sqlalchemy.ext.declarative import declarative_base
 
 engine = create_engine('sqlite:///biudzeto_duomenu_baze.db')
