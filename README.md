@@ -21,4 +21,3 @@ gyvu laiku įvedus naują įrašą, ištrynus įrašą arba pakeitus esamo įra�
 ### Pastabos:
 - Įvedant naują įrašą arba keičiant esamą, data privaloma vesti XXXX-XX-XX formatu
 
-
