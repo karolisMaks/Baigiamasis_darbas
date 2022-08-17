@@ -18,4 +18,7 @@ gyvu laiku įvedus naują įrašą, ištrynus įrašą arba pakeitus esamo įra�
 - Filtruoti lentelėje rodomus įrašus pagal norimą raktažodį
 - Matyti biudžeto balansą, bendrą pajamų sumą ir bendrą išlaidų sumą
 
+### Pastabos:
+- Įvedant naują įrašą arba keičiant esamą, data privaloma vesti XXXX-XX-XX formatu
+
 

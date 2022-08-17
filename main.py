@@ -33,6 +33,7 @@ class Iraso_langas():
     #   Apsiraso iraso lango mygtukai
     def __init__(self, naujas_langas):
         self.naujas_langas = naujas_langas
+        self.naujas_langas.iconbitmap(r'euro.ico')
         self.frame = Frame(self.naujas_langas, bg='#8a8a87')
 
         self.id_uzrasas = Label(self.frame, text='ID:', bg='#8a8a87')
@@ -97,6 +98,7 @@ class Iraso_langas():
 class Pakeitimo_Langas():
     def __init__(self,naujas_langas):
         self.naujas_langas = naujas_langas
+        self.naujas_langas.iconbitmap(r'euro.ico')
         self.langas = Frame(self.naujas_langas, bg='#8a8a87')
 
         #   Sukuria iraso langeliu pavadinimus kaireje puseje
